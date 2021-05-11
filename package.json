@@ -91,7 +91,7 @@
     "gatsby-source-filesystem": "^2.0.16",
     "gatsby-transformer-sharp": "^2.1.8",
     "hast-util-to-string": "^1.0.1",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "marked": "^0.6.0",
     "netlify-cms": "^2.3.3",
     "netlify-cms-widget-mdx": "^0.3.1",
